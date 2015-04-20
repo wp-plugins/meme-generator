@@ -15,7 +15,7 @@ Meme Generator  allows you to add functionality genarate meme's to your WordPres
 
 
 ### Meme Generator by http://paratheme.com
-
+* [Live Demo! &raquo;](https://wordpress.org/plugins/meme-generator/)
 
 
 
